@@ -1,0 +1,31 @@
+::selection {
+  background-color:#000;
+  color:#fff;
+}
+
+body {
+	padding-top: 50px;
+	background:#ccc;
+  	font-family: 'Open Sans', sans-serif;
+  	color:#333;
+}
+
+.col-md-4 {
+  background-color: #999;
+  min-height: 300px;
+}
+
+.jumbotron {
+  color:#333;
+}
+
+p.lead {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.glyphicon {
+  font-size: 78px;
+  margin-right:90px;
+  margin-top: 20px;
+}
